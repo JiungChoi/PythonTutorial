@@ -73,7 +73,7 @@ while h < 50:
     
     h += 1
 
-
+#구구단
 in_gugu = 1
 out_gugu = 1
 caculate = "{} * {} = {}"
