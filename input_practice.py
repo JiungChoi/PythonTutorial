@@ -2,7 +2,7 @@ import random
 ans = random.randint(1,20)
 tryy = 0
 
-for tryy in range(0,5):
+for tryy int range(0,5):
     chance = 4 - tryy
     if chance == 0:
         print(f'아쉽습니다. 정답은{ans}입니다.')
